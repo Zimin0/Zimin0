@@ -13,4 +13,13 @@ zimino.9192@gmail.com
 </div>
 
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
+I am a Python and C++ developer.
+:boom: I am developing various products like:
+* Web sites
+* Joke programms
+* VK api connected scripst
+* 2D Games
+
+---
+
