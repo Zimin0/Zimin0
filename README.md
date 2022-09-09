@@ -13,3 +13,4 @@ zimino.9192@gmail.com
 </div>
 
 
+### :woman_technologist: About Me :
