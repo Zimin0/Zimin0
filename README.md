@@ -5,18 +5,29 @@
 
 
 ### :man_technologist: About Me :
-I am a Python and C++ developer.
-:boom: I am developing various products like:
+I am a Python and C++(sligtly C...) developer
+:boom: Have various projects, connected with Django, APIs, Python libraries, like:
 * Web sites on Python 
-* Joke programms
-* VK api connected scripst
-* 2D Games
+* Joky programms
+* VK API connected scripst
+* 2D Games on Pygame
+
+
 
 ---
 
 ### :bomb: Languages:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+---
+### :floppy_disk: Technologies:
+
+* Linux Ubuntu 
+* Docker 
+* Postgresql 
+
+
 
 ---
 
