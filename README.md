@@ -1,4 +1,4 @@
-### :boom: Hi! :boom:
+### :boom: Welcome to a Django developer page! :boom:
 
 
 ---
