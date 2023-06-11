@@ -24,10 +24,12 @@ I am a Python and C++(sligtly C...) developer
 ---
 ### :floppy_disk: Main technologies:
 
-* Linux Ubuntu 
-* Docker 
-* Postgresql 
 * Django
+* Docker 
+* Linux Ubuntu 
+* Postgresql 
+* Redis
+* Celery
 * RestApi
 * Various Python libs
 
