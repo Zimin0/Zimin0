@@ -1,4 +1,4 @@
-### :boom: Welcome to a Django developer page! :boom:
+### :boom: Welcome! Ich bin Zimin0 - Django developer! :boom:
 
 
 ---
