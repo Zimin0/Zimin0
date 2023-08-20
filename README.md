@@ -9,7 +9,6 @@ I am a Python and C++(sligtly C...) developer
 :boom: Have various projects, connected with Django, APIs, Python libraries, like:
 * Web sites using Django
 * API's using REST API
-* Joky programms
 * VK API connected scripst
 * 2D Games on Pygame
 
