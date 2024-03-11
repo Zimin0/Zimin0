@@ -6,11 +6,11 @@
 
 ### :man_technologist: About Me :
 I am a Python and C++(sligtly C...) developer
-:boom: Have various projects, connected with Django, APIs, Python libraries, like:
-* Web sites using Django
+:boom: Have various projects, connected with Django, Fast API, Python libraries, like:
+* Websites using Django
+* API based websites on FastAPI
 * API's using REST API
-* VK API connected scripst
-* 2D Games on Pygame
+* VK API and Telegram API connected scripst
 
 
 
@@ -24,12 +24,13 @@ I am a Python and C++(sligtly C...) developer
 ### :floppy_disk: Main technologies:
 
 * Django
-* Docker 
-* Linux Ubuntu 
+* Fast API
+* Docker/Docker-compose
+* Linux Ubuntu/Debian
 * Postgresql 
 * Redis
 * Celery
-* RestApi
+* REST API
 * Various Python libs
 
 
