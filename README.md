@@ -1,4 +1,4 @@
-### :boom: Welcome! Ich bin Zimin0 - Django developer! :boom:
+### :boom: Welcome! Ich bin Zimin0 - Backend-Python developer! :boom:
 
 
 ---
