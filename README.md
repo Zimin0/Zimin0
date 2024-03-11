@@ -38,7 +38,7 @@ I am a Python and C++(sligtly C...) developer
 ---
 
 ### :speech_balloon: Contacts:
-zimino.9192@gmail.com
+work_notifications_zimino@mail.ru
 
 <div id="badges">
   <a href="https://vk.com/zim1no">
