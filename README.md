@@ -5,8 +5,9 @@
 
 
 ### :man_technologist: About Me :
-I am a Python and C++(sligtly C...) developer
-:boom: Have various projects, connected with Django, Fast API, Python libraries, like:
+I am a Python developer
+---
+My areas of development: 
 * Websites using Django
 * API based websites on FastAPI
 * API's using REST API
@@ -16,7 +17,7 @@ I am a Python and C++(sligtly C...) developer
 
 ---
 
-### :bomb: Languages:
+### 💥Languages:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
@@ -31,6 +32,7 @@ I am a Python and C++(sligtly C...) developer
 * Redis
 * Celery
 * REST API
+* C++/C
 * Various Python libs
 
 
