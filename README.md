@@ -33,6 +33,6 @@
 ---
 
 ### 🔷 Contacts:
-🔷 work_notifications_zimino@mail.ru
+* work_notifications_zimino@mail.ru
 
-🔷 https://t.me/Zimin0
+* https://t.me/Zimin0
