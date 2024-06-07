@@ -19,14 +19,14 @@
 ### 🔼 Main technologies:
 
 * Django
-* Fast API
-* Django Rest Framework
+* FastAPI
+* Django Rest Framework (DRF)
 * Alembic
 * Docker/Docker-compose
 * Linux Ubuntu/Debian
 * PostgreSQL/MySQL/SQLAlchemy
 * Redis, Celery
-* Aiogram
+* Aiogram for Telegram bots
 * Asyncio, httpx
 
 
